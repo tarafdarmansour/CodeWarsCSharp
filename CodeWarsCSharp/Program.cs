@@ -9,8 +9,11 @@ namespace CodeWarsCSharp
 
 
             // ---- Likes Test
-            string[] arr = new string[] { "John", "Jane" , "Davies", "Taylor", "Smith"};
-            Console.WriteLine(Kata.Likes(arr));
+            //string[] arr = new string[] { "John", "Jane" , "Davies", "Taylor", "Smith"};
+            //Console.WriteLine(Kata.Likes(arr));
+
+
+
         }
     }
 
